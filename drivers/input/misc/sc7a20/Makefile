@@ -1,0 +1,1 @@
+obj-$(CONFIG_INPUT_SC7A20_I2C)          += sc7a20.o

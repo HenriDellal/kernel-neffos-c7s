@@ -1,0 +1,1 @@
+obj-$(CONFIG_INPUT_KXTJ3_I2C)  += kionix_accel.o

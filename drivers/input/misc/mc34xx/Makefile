@@ -1,0 +1,1 @@
+obj-$(CONFIG_INPUT_MC34XX_I2C)          += mc34xx.o

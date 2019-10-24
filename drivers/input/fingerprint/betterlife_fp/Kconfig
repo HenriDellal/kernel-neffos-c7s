@@ -1,0 +1,7 @@
+if INPUT_FINGERPRINT
+config BETTERLIFE_FINGERPRINT
+	tristate "betterlife FP spi deriver"
+	depends on SPI_MASTER
+	help
+	  Say Y here to use silead fingerprint driver.
+endif
